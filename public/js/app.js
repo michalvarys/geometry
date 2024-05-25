@@ -67,7 +67,7 @@ const tMaterial = {
     clearcoat: 1.0,
     metalness: 1.0,
     roughness: 0.5,
-    color: 0xaa8844,
+    color: 0x56ff99,
     wireframe: true,
 };
 
